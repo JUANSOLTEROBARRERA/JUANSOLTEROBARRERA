@@ -23,3 +23,5 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+## 🌐 Examples of Work:
+<img src="Resnet50VideoPredictions.gif" width="256"/>
