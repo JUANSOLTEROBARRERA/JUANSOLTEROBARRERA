@@ -2,7 +2,8 @@
 #### Systems Engineer Student
 ![Systems Engineer Student](Banner2JuanSoltero.png)
 
-![](https://komarev.com/ghpvc/?username=JUANSOLTEROBARRERA)
+![](https://komarev.com/ghpvc/?username=JUANSOLTEROBARRERA&color=red&style=for-the-badge)
+<br>
 🧑🏽‍🏽‍💻 Last semester Student of Computer Systems Engineering. Throughout my academic development I carried out several school projects in areas like: desktop applications, web programming, hybrid applications, Android mobile device applications, relational and non-relational databases, computer networks, operating systems and more.
 
 # About Me:
