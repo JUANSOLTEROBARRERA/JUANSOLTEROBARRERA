@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Juan Soltero
 #### Systems Engineer Student
-![Systems Engineer Student](https://drive.google.com/file/d/12pbteUFcLNSErlcEbCc-kpqamu6IO8-7/view?usp=sharing)
+![Systems Engineer Student](BannerJuanSoltero.png)
 
 Last semester student of Computer Systems Engineering. Throughout my academic development I carried out several school projects in areas like: desktop applications, web programming, hybrid applications, Android mobile device applications, relational and non-relational databases, computer networks, operating systems and more.
 
