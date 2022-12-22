@@ -1,4 +1,4 @@
-### Hi 🙋🏽‍♂️, my name is Juan Soltero
+## Hi 🙋🏽‍♂️, my name is Juan Soltero
 #### Systems Engineer Student
 ![Systems Engineer Student](BannerJuanSoltero.png)
 
