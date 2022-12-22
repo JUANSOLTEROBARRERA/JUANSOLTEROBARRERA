@@ -5,7 +5,7 @@
 🧑🏽‍🏽‍💻 Last semester Student of Computer Systems Engineering. Throughout my academic development I carried out several school projects in areas like: desktop applications, web programming, hybrid applications, Android mobile device applications, relational and non-relational databases, computer networks, operating systems and more.
 
 # About Me:
-👨🏽‍💻 I am a Computer Systems Engineer Student. <br>👨🏽‍🏫 💻 I am currenly working as a Computer Teacher for parcial time.<br>🌐 I am interested in Web Development, Web Design, Mobile Applications and Computer Vision. 🤖 <br>🤝 I am looking for my professional growth sharing and getting knowledge and motivation of the marvellous world of computation.<br><br>📬 Shoot me an Email or add me on Linkedin .
+👨🏽‍💻 I am a Computer Systems Engineer Student. <br>👨🏽‍🏫 I am currenly working as a Computer Teacher for parcial time.<br>🌐 I am interested in Web Development, Web Design, Mobile Applications and Computer Vision. 🤖 <br>🤝 I am looking for my professional growth sharing and getting knowledge and motivation of the marvellous world of computation.<br><br>📬 Shoot me an Email or add me on Linkedin .
 
 
 # 🌐 Socials:
