@@ -20,7 +20,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JUANSOLTEROBARRERA&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=JUANSOLTEROBARRERA&icon=0&color=4)](https://visitcount.itsvg.in)
+![visitors](https://visitor-badge.glitch.me/badge?JUANSOLTEROBARRERA=JUANSOLTEROBARRERA&left_color=green&right_color=red)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
