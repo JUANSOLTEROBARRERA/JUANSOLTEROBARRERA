@@ -65,5 +65,5 @@
 <img src="Resnet50VideoPredictions.gif" width="256"/><br>
 #### Promex: Laravel Web Page About School Violence and MYSQL Database
 <img src="PromexPage.gif" width="256"/><br>
-#### Ciencia Y Tecnología: Angular and MongoDB Web Page Where You Can Share Research Work related to Ciencie And Technology
+#### Ciencia Y Tecnología: Angular and MongoDB Web Page Where You Can Share Research Work related to Science And Technology
 <img src="Ciencia.gif" width="256"/><br>
