@@ -61,7 +61,7 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## 🌐 Examples of Work:
-#### Surgical Tool Classification using Resnet-50 and Pytorch as Framework
+#### Surgical Tool Multi-class and Multi-label Classification using Python 3, Pytorch as Framework and Resnet-50 architecture  
 <img src="Resnet50VideoPredictions.gif" width="256"/><br>
-#### Promex: Web Page About School Violence
+#### Promex: Laravel Web Page About School Violence
 <img src="PromexPage.gif" width="256"/>
