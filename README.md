@@ -67,3 +67,4 @@
 <img src="PromexPage.gif" width="456"/><br>
 #### Ciencia Y Tecnología: Angular and MongoDB Web Page Where You Can Share Research Work related to Science And Technology
 <img src="Ciencia.gif" width="456"/><br>
+##### You can find a static version of this page on: (https://cienciaittepic.netlify.app/inicio)
