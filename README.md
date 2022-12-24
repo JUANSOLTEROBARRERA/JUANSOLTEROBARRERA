@@ -63,6 +63,8 @@
 ## 🌐 Examples of Work:
 #### Multi-class and Multi-label Surgical Tool Classification using Python 3, Pytorch as Framework and Resnet-50 architecture  
 <img src="Resnet50VideoPredictions.gif" width="100%"/><br>
+#### PizzaTime: Laravel and MYSQL Web Page for Total Control of the Administration in Pizza Shop
+<img src="PizzaTimePage.gif" width="100%"/><br>
 #### Promex: Laravel and MYSQL Web Page About School Violence
 <img src="PromexPage.gif" width="100%"/><br>
 #### Ciencia Y Tecnología: Angular and MongoDB Web Page Where You Can Share Research Work related to Science And Technology
