@@ -66,5 +66,5 @@
 #### Promex: Laravel and MYSQL Web Page About School Violence
 <img src="PromexPage.gif" width="656"/><br>
 #### Ciencia Y Tecnología: Angular and MongoDB Web Page Where You Can Share Research Work related to Science And Technology
-<img src="CienciaPage.gif" width="656"/><br>
+<img src="CienciaPage.gif" width="100%"/><br>
 ##### You can find a static version of this page on: (https://cienciaittepic.netlify.app)
