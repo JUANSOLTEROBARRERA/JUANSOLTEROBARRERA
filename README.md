@@ -62,6 +62,6 @@
 
 ## 🌐 Examples of Work:
 #### Surgical Tool Classification using Resnet-50 and Pytorch as Framework
-<img src="Resnet50VideoPredictions.gif" width="256"/>
+<img src="Resnet50VideoPredictions.gif" width="256"/><br>
 #### Promex: Web Page About School Violence
 <img src="PromexPage.gif" width="256"/>
