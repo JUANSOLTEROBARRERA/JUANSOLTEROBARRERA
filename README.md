@@ -66,6 +66,7 @@
 <img src="PizzaTimePage.gif" width="100%"/><br>
 #### Cordova: Cordova Web Page LandingPage about Cordova Framework
 <img src="CordovaPage.gif" width="100%"/><br>
+##### You can find a static version of this page on: (https://actividad4equipo5.netlify.app/)
 #### Promex: Laravel and MYSQL Web Page About School Violence
 <img src="PromexPage.gif" width="100%"/><br>
 #### Ciencia Y Tecnología: Angular and MongoDB Web Page Where You Can Share Research Work related to Science And Technology
