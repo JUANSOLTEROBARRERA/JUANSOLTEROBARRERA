@@ -1,5 +1,5 @@
 # Hi, my name is Juan Soltero
-#### Computer Systems Engineer Student
+#### Computer Engineer Student
 ![Systems Engineer Student](Banner2JuanSoltero.png)
 
 
