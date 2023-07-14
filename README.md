@@ -1,12 +1,10 @@
 # Hi, my name is Juan Soltero
 #### Computer Engineer Student
-![Systems Engineer Student](Banner2JuanSoltero.png)
-
 
 🧑🏽‍🏽‍💻 Last semester Student of Computer Systems Engineering. Throughout my academic development I carried out several school projects in areas like: desktop applications, web programming, hybrid applications, Android mobile device applications, relational and non-relational databases, computer networks, operating systems and more.
 
 # About Me:
-👨🏽‍💻 I am a Computer Systems Engineer Student. <br>👨🏽‍🏫 I am currenly working as Junior Java Developer.<br>🌐 I am interested in Web Development, Web Design and Computer Vision. 🤖 <br>🤝 I am looking for my professional growth sharing and getting knowledge and motivation of the marvellous world of computation.<br>📧 How to reach me: juansolteroba@hotmail.com<br><br>📬 Shoot me an Email or add me on Linkedin. 
+👨🏽‍💻 I am a Computer Systems Engineer Student. <br>👨🏽‍🏫 Junior Java Developer, SAP ABAP Developer and Computer Vision.<br>🌐 
 
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/juansoltero) 
@@ -57,20 +55,3 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JUANSOLTEROBARRERA&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-## 🌐 Examples of Work:
-
-#### PizzaTime: Laravel and MYSQL Web Page for Total Control of the Administration in Pizza Shop
-<img src="PizzaTimePage.gif" width="100%"/><br>
-#### Cordova: Cordova Web Page LandingPage about Cordova Framework
-<img src="CordovaPage.gif" width="100%"/><br>
-##### You can find this web page on: (https://actividad4equipo5.netlify.app/)
-#### Promex: Laravel and MYSQL Web Page About School Violence
-<img src="PromexPage.gif" width="100%"/><br>
-#### Ciencia Y Tecnología: Angular and MongoDB Web Page Where You Can Share Research Work related to Science And Technology
-<img src="CienciaPage.gif" width="100%"/><br>
-##### You can find a static version of this web page on: (https://cienciaittepic.netlify.app)
-#### Multi-class and Multi-label Surgical Tool Classification using Python 3, Pytorch as Framework and Resnet-50 architecture  
-<img src="Resnet50VideoPredictions.gif" width="100%"/><br>
